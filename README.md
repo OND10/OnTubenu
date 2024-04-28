@@ -1,5 +1,4 @@
 # OnTubenu
-# Ontube
 
 <p align="center">
   <img src='Images/ontube.png' alt='Icon'>
@@ -113,5 +112,5 @@ please follow me for more C# blogs [linkedin](https://www.linkedin.com/in/osama-
 
 ## 📎 License
 
-This project is licensed under the [MIT License](https://github.com/OND10/OnTube/blob/master/LICENSE.txt).
+This project is licensed under the [MIT License](https://github.com/OND10/OnTubenu?tab=MIT-1-ov-file).
 
