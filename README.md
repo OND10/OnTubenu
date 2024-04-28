@@ -1,7 +1,7 @@
 # OnTubenu
 
 <p align="center">
-  <img src='./assets/ontube.png' alt='Icon'>
+  <img src='ontubePackage/assets/ontube.png' alt='Icon'>
 </p>
 
 
