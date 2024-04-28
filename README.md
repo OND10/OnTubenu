@@ -18,12 +18,16 @@ You are free by using this project or its source code, for any purpose that will
 
 ### Installation
 
-OnTube is available on [NuGet](https://www.nuget.org/packages/OnTube). Install the provider package. See the in the docs for additional downloads.
+OnTube is available on [NuGet](https://www.nuget.org/packages/OnTube/). Install the provider package. See the in the docs for additional downloads.
 
 ```sh
 paket add OnTube --version 1.0.0
 ```
 
+### Download package using nuget
+```
+Only search for OnTube and please ignore this -> Ond.Util.OnTube
+```
 
 ## Usage
 
