@@ -1,4 +1,7 @@
-# OnTubenu
+# OnTube
+
+[![Status](https://img.shields.io/badge/status-maintenance-ffd700.svg)]
+[![Downloads](https://api.nuget.org/v3-flatcontainer/ontube/1.0.0/icon)](https://www.nuget.org/packages/OnTube)
 
 <p align="center">
   <img src='ontubePackage/assets/ontube.png' alt='Icon'>
