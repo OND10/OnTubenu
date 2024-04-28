@@ -1,7 +1,7 @@
 # OnTube
 
 ![Status](https://img.shields.io/badge/status-maintenance-ffd700.svg)
-[![Downloads](https://img.shields.io/nuget/dt/YoutubeExplode.svg)](https://www.nuget.org/packages/OnTube)
+[![Downloads]()](https://www.nuget.org/packages/OnTube)
 
 <p align="center">
   <img src='ontubePackage/assets/ontube.png' alt='Icon'>
