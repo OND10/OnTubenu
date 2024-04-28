@@ -1,0 +1,13 @@
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\ontubePackage.deps.json
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\ontubePackage.dll
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\ontubePackage.pdb
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\obj\Debug\net6.0\ontubePackage.csproj.AssemblyReference.cache
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\obj\Debug\net6.0\ontubePackage.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\obj\Debug\net6.0\ontubePackage.AssemblyInfoInputs.cache
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\obj\Debug\net6.0\ontubePackage.AssemblyInfo.cs
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\obj\Debug\net6.0\ontubePackage.csproj.CoreCompileInputs.cache
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\obj\Debug\net6.0\ontubePackage.dll
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\obj\Debug\net6.0\refint\ontubePackage.dll
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\obj\Debug\net6.0\ontubePackage.pdb
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\obj\Debug\net6.0\ref\ontubePackage.dll
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\obj\Debug\net6.0\ontubePackage.sourcelink.json

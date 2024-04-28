@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>OnTube</PackageId>
+    <Title>OnTube</Title>
+    <Version></Version>
+    <Authors>Osama Dammag</Authors>
+    <Company>Osama Dammag</Company>
+    <Product>OnTube</Product>
+    <Description>A library that provides an interface to easily convert YouTube videos to audio files and download them with any resolution.</Description>
+    <PackAsTool>False</PackAsTool>
+    <PackageTags>Downloading, Converting, Casting, Cast</PackageTags>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageIcon>main-logo.png</PackageIcon>
+    <ToolCommandName>dotnet add package OnTube</ToolCommandName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\HubSpot Brand Kit\Logo\PNG\main-logo.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NReco.VideoConverter" Version="1.2.1" />
+    <PackageReference Include="YoutubeExplode" Version="6.3.13" />
+  </ItemGroup>
+
+</Project>

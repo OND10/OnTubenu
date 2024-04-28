@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>OnTube</id>
+    <version>1.0.0</version>
+    <title>OnTube</title>
+    <authors>Osama Dammag</authors>
+    <icon>main-logo.png</icon>
+    <description>A library that provides an interface to easily convert YouTube videos to audio files and download them with any resolution.</description>
+    <tags>Downloading, Converting, Casting, Cast</tags>
+    <repository type="git" commit="5dcf804ed6ee62b4688696c4688a1b54a6c4410f" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="NReco.VideoConverter" version="1.2.1" exclude="Build,Analyzers" />
+        <dependency id="YoutubeExplode" version="6.3.13" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\ontubePackage.dll" target="lib\net6.0\ontubePackage.dll" />
+    <file src="D:\visualstudiocodes\Csharp\HubSpot Brand Kit\Logo\PNG\main-logo.png" target="\main-logo.png" />
+  </files>
+</package>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Jjqy3s6lAqD73vHu6CLqAU5Q+DS9qk+v0szIF9pk6u9Q8li2XVMhRVCuyv3lVwr7ba83uT2NRSTPG6Js3tS/Q==",
+  "success": true,
+  "projectFilePath": "D:\\visualstudiocodes\\Csharp\\OnTubeSolution\\ontubePackage\\ontubePackage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\anglesharp\\1.0.7\\anglesharp.1.0.7.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\nreco.videoconverter\\1.2.1\\nreco.videoconverter.1.2.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\youtubeexplode\\6.3.13\\youtubeexplode.6.3.13.nupkg.sha512"
+  ],
+  "logs": []
+}

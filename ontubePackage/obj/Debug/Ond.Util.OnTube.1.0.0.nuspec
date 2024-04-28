@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Ond.Util.OnTube</id>
+    <version>1.0.0</version>
+    <title>OnTube</title>
+    <authors>Osama Dammag</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>main-logo.png</icon>
+    <description>A library that provides an interface to easily convert YouTube videos to audio files and download them with any resolution.</description>
+    <tags>Downloading, Converting, Casting, Cast</tags>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" url="https://github.com/OND10/OnTube" commit="5dcf804ed6ee62b4688696c4688a1b54a6c4410f" />
+  </metadata>
+  <files>
+    <file src="D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\publish\ontubePackage.dll" target="tools\net6.0\any\ontubePackage.dll" />
+    <file src="D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\publish\ontubePackage.deps.json" target="tools\net6.0\any\ontubePackage.deps.json" />
+    <file src="D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\publish\ontubePackage.pdb" target="tools\net6.0\any\ontubePackage.pdb" />
+    <file src="D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\publish\AngleSharp.dll" target="tools\net6.0\any\AngleSharp.dll" />
+    <file src="D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\publish\NReco.VideoConverter.dll" target="tools\net6.0\any\NReco.VideoConverter.dll" />
+    <file src="D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\publish\YoutubeExplode.dll" target="tools\net6.0\any\YoutubeExplode.dll" />
+    <file src="D:\visualstudiocodes\Csharp\HubSpot Brand Kit\Logo\PNG\main-logo.png" target="\main-logo.png" />
+  </files>
+</package>

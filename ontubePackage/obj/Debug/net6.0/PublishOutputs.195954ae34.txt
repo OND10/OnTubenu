@@ -1,0 +1,6 @@
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\publish\ontubePackage.dll
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\publish\ontubePackage.deps.json
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\publish\ontubePackage.pdb
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\publish\AngleSharp.dll
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\publish\NReco.VideoConverter.dll
+D:\visualstudiocodes\Csharp\OnTubeSolution\ontubePackage\bin\Debug\net6.0\publish\YoutubeExplode.dll
