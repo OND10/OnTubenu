@@ -107,6 +107,11 @@ else
 
 ```
 
+Once the audio is obtained, you can find it in the purposed folder with a format of type mp3.
+
+In the end don't hesitate to share your ability in developing this packge.
+
+
 
 ### Use it with MVC Apps
 
@@ -162,9 +167,6 @@ builder.Services.AddScoped<OntubeAudioConverter>();
 ```
 
 
-Once the audio is obtained, you can find it in the purposed folder with a format of type mp3.
-
-In the end don't hesitate to share your ability in developing this packge.
 
 ## 😁 Contributing
 
