@@ -42,7 +42,7 @@ Create an instance of this class and use the provided operations on `Videos` and
 To download the video from YouTube. 
 
 ```csharp
-using OnTube;
+using ontubePackage;
 
 var youtube = new OntubeAudioConverter();
 
@@ -81,7 +81,7 @@ Every YouTube video has a number of streams available, differing in containers, 
 To convert the YT video to audio. 
 
 ```csharp
-using OnTube;
+using ontubePackage;
 
 var youtube = new OntubeAudioConverter();
 
@@ -106,6 +106,61 @@ else
 
 
 ```
+
+
+### Use it with MVC Apps
+
+
+```csharp
+using ontubePackage;
+
+// This is the controller
+public class HomeController : Controller
+{
+    private readonly OntubeAudioConverter _ontube;
+    public HomeController(OntubeAudioConverter ontube)
+    {
+        _ontube = ontube;      
+    }
+
+    public IActionResult Index()
+    {
+        return View();
+    }
+
+    public IActionResult Privacy()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public async Task<IActionResult>Download(string url)
+    {
+        var folderPath =@"D:\visualstudiocodes\Csharp\Test_Template\wwwroot\music";
+        //You can specify the file name as you like
+        var fileName = "song1";
+
+        await _ontube.DownloadVideoAsync(url, folderPath, fileName, 360);
+
+        return View("Index");
+    }
+}
+
+
+//This is the view Download.cshtml
+ <form asp-action="Download" asp-controller="Home" method="post">
+     <input type="text"  name="url"/>
+     <div>
+         <button type="submit">Download</button>
+     </div>
+ </form>
+
+
+// This is the program.cs
+builder.Services.AddScoped<OntubeAudioConverter>(); 
+
+```
+
 
 Once the audio is obtained, you can find it in the purposed folder with a format of type mp3.
 
